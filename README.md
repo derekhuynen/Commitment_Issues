@@ -1,5 +1,4 @@
-# Committing Fraud
-
+# Commitment Issues
 This project is a playful script designed to create fake commits in a Git repository. It automates the process of generating commits for a specified number of past days, updating a file with incremental numbers to simulate activity.
 
 ## How It Works
